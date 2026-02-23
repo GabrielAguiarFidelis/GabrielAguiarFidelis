@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Gabriel+A.+Fidelis;Full+Stack+Developer;Code.+Think.+Evolve." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Gabriel+A.+Fidelis;Full+Stack+Developer" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ Domino a base, aplico tecnologia moderna e uso **IA como alavanca**, não como m
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat&logo=mysql)
 
-### 🛡️ Sistemas
+### 🛡️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github)
 
