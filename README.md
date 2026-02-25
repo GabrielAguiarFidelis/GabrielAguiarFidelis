@@ -11,21 +11,10 @@
 
 ---
 
-## 🧠 Mentalidade
-
-Desenvolvedor com foco em **soluções reais**, não em modinhas.  
-Domino a base, aplico tecnologia moderna e uso **IA como alavanca**, não como muleta.
-
-- 🧱 Base sólida (código puro)
-- ⚙️ Sistemas bem pensados > sistemas rápidos e frágeis
-
----
-
 ## 🚀 Áreas de Atuação
 
 - 🌐 Desenvolvimento Full Stack
 - 🛡️ Web Developer
-- 🎨 Front-End moderno com base raiz
 - ⚡ Automação e produtividade
 
 ---
