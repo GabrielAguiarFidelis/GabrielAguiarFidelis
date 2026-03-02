@@ -45,7 +45,11 @@
 
 📧 **Email**: gabriel.aguiar.codes@gmail.com  
 💼 **LinkedIn**: https://linkedin.com/in/gabriel-aguiar-fidelis-640672358  
-
+<p align="left">
+  <a href="https://instagram.com/gabriel.a.fidelis">
+    <img src="https://img.shields.io/badge/Instagram-@gabriel.a.fidelis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>  
+</p>
 ---
 
 ## 🧭 Visão
