@@ -7,8 +7,6 @@
 ## 👨‍💻 Gabriel Fidelis
 ### Full Stack Developer 
 
-> **Código limpo. Base forte. Visão de futuro.**
-
 ---
 
 ## 🚀 Áreas de Atuação
